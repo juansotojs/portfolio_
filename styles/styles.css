@@ -881,7 +881,8 @@
     }
     .header-content{
         grid-template-columns: repeat(1, 1fr);
-        height: 330px;
+        height: 1000px;
+        
 
     }
     .name{
@@ -890,7 +891,6 @@
     }
     .descc{
         width: 30vh;
-
     }
     .pik{
         display: none;
